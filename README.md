@@ -15,14 +15,15 @@ Tonycai12345
 再注：相信以各位读者朋友的英文水平，是可以轻松找到下载链接的，但以防万一，我将下载步骤在此贴出（毕竟上次李某人说来下软件，结果下了五份源代码走了，还问我怎么全都打不开）。<br/>
 <ol>
   <li>
-    <h2>Step 1:点开发布页面。<h2/>
-    如图，点击红框处。![单击“v0.0.0.0-alpha &#91;Latest&#93;”](https://user-images.githubusercontent.com/57432107/123792996-d53bbc80-d913-11eb-8a0b-13c48cb0ba8d.jpg)
+    <h2>Step 1:点开发布页面。</h2>
+    如图，点击红框处。
+    <img src="https://user-images.githubusercontent.com/57432107/123792996-d53bbc80-d913-11eb-8a0b-13c48cb0ba8d.jpg" alt="单击“v0.0.0.0-alpha &#91;Latest&#93;”"/>
   <li/>
   <li>
-    <h2>Step 2:点击下载。<h2/>
-    如图，点击红框。![单击“dragonsblood.exe”](https://user-images.githubusercontent.com/57432107/123794467-7414e880-d915-11eb-985d-53fa621032ea.jpg)
-  <li/>
+    <h2>Step 2:点击下载。</h2>
+    如图，点击红框。
+    <img src="https://user-images.githubusercontent.com/57432107/123794467-7414e880-d915-11eb-985d-53fa621032ea.jpg" alt="单击“dragonsblood.exe”"/>
   <li>
-    <h2>Step 3:等待。<h2/>
+    <h2>Step 3:等待。</h2>
     下载大约需要半小时，且随时可能中断。建议使用迅雷。<br/>
-    <small>不要问我为什么这么慢，我也想快点，可是各位也看得到，这是一个Github网站，服务器远在美国，想快也快不起来。（众所周知，Github是一个美国公司。这也就是为什么本网站的重要部分都是英文。）<small/>
+    <small>不要问我为什么这么慢，我也想快点，可是各位也看得到，这是一个Github网站，服务器远在美国，想快也快不起来。（众所周知，Github是一个美国公司。这也就是为什么本网站的重要部分都是英文。）</small>
